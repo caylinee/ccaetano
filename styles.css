@@ -3,9 +3,9 @@
 
 :root {
     --laranja-claro: #2a51ff;
-    --alto-contraste-fundo: #1ebba1;
-    --alto-contraste-texto: hsl(180, 91%, 49%);
-    --alto-contraste-link: #00ffd549;
+    --alto-contraste-fundo: #3b0e5f;
+    --alto-contraste-texto: hsl(180, 19%, 11%);
+    --alto-contraste-link: #c2fd6349;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: lab(85.84% -41.68 -15.75);
+    background-color: lab(70.93% 45.57 -36.13);
 }
 
 
